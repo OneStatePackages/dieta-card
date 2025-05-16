@@ -11,10 +11,10 @@
   </tr>
   <tr>
     <td align="left">
-      <img src="images/card1.gif" alt="gif1" width="300" />
+      <img src="https://raw.githubusercontent.com/OneStatePackages/dieta-card/refs/heads/main/images/card1.gif" alt="gif1" width="300" />
     </td>
     <td align="right">
-      <img src="images/card2.gif" alt="gif2" width="300" />
+      <img src="https://raw.githubusercontent.com/OneStatePackages/dieta-card/refs/heads/main/images/card2.gif" alt="gif2" width="300" />
     </td>
   </tr>
 </table>
